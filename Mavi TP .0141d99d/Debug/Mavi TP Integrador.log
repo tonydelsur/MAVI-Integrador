@@ -1,0 +1,22 @@
+﻿  Mira.cpp
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(9,64): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(9,64): warning C4244:         with
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(9,64): warning C4244:         [
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(9,64): warning C4244:             T=unsigned int
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(9,64): warning C4244:         ]
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(9,39): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(9,39): warning C4244:         with
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(9,39): warning C4244:         [
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(9,39): warning C4244:             T=unsigned int
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(9,39): warning C4244:         ]
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(12,37): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(12,37): warning C4244:         with
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(12,37): warning C4244:         [
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(12,37): warning C4244:             T=int
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(12,37): warning C4244:         ]
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(13,37): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(13,37): warning C4244:         with
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(13,37): warning C4244:         [
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(13,37): warning C4244:             T=int
+C:\Users\Antonio\source\repos\Mavi TP Integrador\Mira.cpp(13,37): warning C4244:         ]
+  Mavi TP Integrador.vcxproj -> C:\Users\Antonio\source\repos\Mavi TP Integrador\Debug\Mavi TP Integrador.exe
